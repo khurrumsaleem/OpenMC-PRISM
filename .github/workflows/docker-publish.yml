@@ -25,6 +25,7 @@ on:
       - "executedownload.sh"
       - "openmc_bo/**"
       - "openmc_ga/**"
+      - "openmc_rl/**"
       - "environments/**"
       - "Notebooks/**"
       - ".github/workflows/docker-publish.yml"
